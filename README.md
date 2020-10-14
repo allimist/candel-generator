@@ -5,7 +5,7 @@ A simple candle generator for financial platforms
 
 ``` bash
 # install
-$ git clone https://github.com/allimist/candel-generator.git
+$ git clone [this repo]
 # run
 $ node index.js
 ```
